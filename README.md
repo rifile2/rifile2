@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ISHU RAJPUT</h1>
 <h3 align="center">A passionate frontend developer and Tester from India</h3>
 
-- 💬 Ask me about **Front End , Testing and Some backend Concepts**
+- 💬 Ask me about **Front End , Testing and Some backend Concepts,AL/ML**
 
 - 📫 How to reach me **ir423586@gmail.com**
 
