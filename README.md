@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **ir423586@gmail.com**
 
-- 📄 Know about my experiences [resumepdfishu](resumepdfishu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
