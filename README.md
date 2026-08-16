@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ISHU RAJPUT</h1>
-<h3 align="center">A passionate frontend developer and Tester from India</h3>
+<h3 align="center">A passionate Python Developer(AI/ML,frontend developer and Tester )from India</h3>
 
 - 💬 Ask me about **Front End , Testing and Some backend Concepts,AL/ML**
 
